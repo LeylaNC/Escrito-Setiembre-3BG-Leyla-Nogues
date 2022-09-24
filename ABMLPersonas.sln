@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaVisual", "WindowsFormsApp1\CapaVisual.csproj", "{C171E9D9-E634-4523-94A9-5A6473AC64AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{DE7970C7-E2C1-4490-A9F1-C6B87AA8134D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "ClassLibrary1\CapaLogica.csproj", "{65D68865-853A-44D7-A6D6-1BE02AC44FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C171E9D9-E634-4523-94A9-5A6473AC64AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C171E9D9-E634-4523-94A9-5A6473AC64AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C171E9D9-E634-4523-94A9-5A6473AC64AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C171E9D9-E634-4523-94A9-5A6473AC64AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7970C7-E2C1-4490-A9F1-C6B87AA8134D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7970C7-E2C1-4490-A9F1-C6B87AA8134D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7970C7-E2C1-4490-A9F1-C6B87AA8134D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7970C7-E2C1-4490-A9F1-C6B87AA8134D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D68865-853A-44D7-A6D6-1BE02AC44FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D68865-853A-44D7-A6D6-1BE02AC44FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D68865-853A-44D7-A6D6-1BE02AC44FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D68865-853A-44D7-A6D6-1BE02AC44FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {168C996E-9663-4C73-93A6-7C967F81296F}
+	EndGlobalSection
+EndGlobal
